@@ -1,0 +1,8 @@
+{
+  "appId": "com.xiaoyu.app",
+  "appName": "小余App",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
