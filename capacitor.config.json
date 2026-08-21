@@ -1,6 +1,6 @@
 {
   "appId": "com.xiaoyu.app",
-  "appName": "青茁",
+  "appName": "云耳小记",
   "webDir": "www",
   "server": {
     "androidScheme": "https"

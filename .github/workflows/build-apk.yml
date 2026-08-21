@@ -29,6 +29,9 @@ jobs:
       - name: 添加 Android 平台
         run: npx cap add android
 
+      - name: 生成安卓图标
+        run: npx capacitor-assets generate --android
+
       - name: 同步网页资源
         run: npx cap sync android
 
