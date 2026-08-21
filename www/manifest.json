@@ -1,7 +1,7 @@
 ﻿{
-  "name": "小余的工作生活专属 App",
-  "short_name": "小余App",
-  "description": "小余的个人工作生活管理应用",
+  "name": "青茁",
+  "short_name": "青茁",
+  "description": "青茁的个人工作生活管理应用",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",
